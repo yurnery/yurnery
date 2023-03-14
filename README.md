@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Typescript, React
 - 🌱 I’m currently learning Rust
 
-![](./profile-summary-card-output/tokyonight/0-profile-details.svg)
+<!-- ![](./profile-summary-card-output/tokyonight/0-profile-details.svg)
 ![](./profile-summary-card-output/tokyonight/1-repos-per-language.svg)
-![](./profile-summary-card-output/tokyonight/3-stats.svg)
+![](./profile-summary-card-output/tokyonight/3-stats.svg) -->
